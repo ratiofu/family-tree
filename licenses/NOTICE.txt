@@ -1,0 +1,3 @@
+This app loads the HEIC decoder libheif-js 1.23.5 as a separate file (assets/libheif-bundle-*.js) only when a HEIC photo is added.
+libheif-js is licensed under the GNU LGPL 3.0 (libheif-js-LGPL-3.0.txt). Source: https://github.com/catdad-experiments/libheif-js
+You may replace that file with a compatible build of the library.
